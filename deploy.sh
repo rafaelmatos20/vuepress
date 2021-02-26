@@ -4,7 +4,7 @@
 set -e
 
 # generate docs
-npm run docs:gen prod
+#npm run docs:gen prod
 
 # build
 npm run docs:build
