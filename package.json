@@ -1,0 +1,19 @@
+{
+  "name": "vuepressteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3",
+    "read-pkg-up": "^4.0.0",
+    "shelljs": "^0.8.2",
+    "vuepress": "^1.8.2"
+  }
+}
