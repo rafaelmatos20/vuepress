@@ -23,6 +23,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/rafaelmatos20/vuepress master:gh-pages
+git push -f https://github.com/rafaelmatos20/vuepress main:gh-pages
 
 cd -
